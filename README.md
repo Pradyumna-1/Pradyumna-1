@@ -11,7 +11,7 @@
 🔭 I’m currently working on Bharat Intern & Cipher Byte<br>Technologies.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning PHP<br>👨‍💻 All of my projects are available at [https://github.com/Pradyumna-1?tab=repositories](https://github.com/Pradyumna-1?tab=repositories)<br>📫 How to reach me pradyumnakumarnaik1@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Let's Connect :
 <a href = "mailto: pradyumnakumarnaik1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"  width="30rem" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https:/www.linkedin.com/in/pradyumna-kumar-naik-9398b723a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30rem"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.instagram.com/im_siddharth_20/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30rem" /></a>
