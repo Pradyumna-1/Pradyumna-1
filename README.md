@@ -6,9 +6,6 @@
 <h1 align="center">Hi 👋, I'm Pradyumna Kumar Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-<img align="right" alt="coading" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
-
 # 💫 About Me:
 🔭 I’m currently working on Bharat Intern & Cipher Byte<br>Technologies.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning PHP<br>👨‍💻 All of my projects are available at [https://github.com/Pradyumna-1?tab=repositories](https://github.com/Pradyumna-1?tab=repositories)<br>📫 How to reach me pradyumnakumarnaik1@gmail.com
 
