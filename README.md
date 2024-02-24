@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Bharat Intern & Cipher Byte<br>Technologies.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning PHP<br>👨‍💻 All of my projects are available at [https://github.com/Pradyumna-1?tab=repositories](https://github.com/Pradyumna-1?tab=repositories)<br>📫 How to reach me pradyumnakumarnaik1@gmail.com
+🔭 I’m currently working on Bharat Intern & Cipher Byte<br>Technologies.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning PHP<br>👨‍💻 All of my projects are available at [https://github.com/Pradyumna-1?tab=repositories](https://github.com/Pradyumna-1?tab=repositories)<br>📫 How to reach me naik.kumarpradyumna@gmail.com
 
 ## 🌐 Let's Connect :
-<a href = "mailto: pradyumnakumarnaik1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"  width="30rem" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https:/www.linkedin.com/in/pradyumna-kumar-naik-9398b723a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30rem"/></a>
+<a href = "mailto: naik.kumarpradyumna@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png"  width="30rem" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.linkedin.com/in/pradyumnakumarnaik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30rem"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.instagram.com/im_siddharth_20/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30rem" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/profile.php?id=100035573633791"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="30rem"/></a>
 
