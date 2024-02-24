@@ -1,11 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 
-<img align="right" alt="coading" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
-
 
 <h1 align="center">Hi 👋, I'm Pradyumna Kumar Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on Bharat Intern & Cipher Byte<br>Technologies.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning PHP<br>👨‍💻 All of my projects are available at [https://github.com/Pradyumna-1?tab=repositories](https://github.com/Pradyumna-1?tab=repositories)<br>📫 How to reach me pradyumnakumarnaik1@gmail.com
