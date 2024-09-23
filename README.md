@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently learning Java FullStack Development.👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning PHP also.<br>👨‍💻 All of my projects are available at [https://github.com/Pradyumna-1?tab=repositories](https://github.com/Pradyumna-1?tab=repositories)<br>📫 How to reach me naik.kumarpradyumna@gmail.com
+🔭 I’m currently learning Java FullStack Development. <br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning PHP also.<br>👨‍💻 All of my projects are available at [https://github.com/Pradyumna-1?tab=repositories](https://github.com/Pradyumna-1?tab=repositories)<br>📫 How to reach me naik.kumarpradyumna@gmail.com
 
 ## 🌐 Let's Connect :
 <a href = "mailto: naik.kumarpradyumna@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png"  width="30rem" /></a>
