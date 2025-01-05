@@ -13,11 +13,26 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
 
 ## 🌐 Let's Connect :
 <p align="center">
-  <a href="mailto:naik.kumarpradyumna@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40rem" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/pradyumnakumarnaik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40rem" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/im_siddharth_20/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40rem" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100035573633791"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="40rem" alt="Facebook"/></a>
+  <a href="mailto:naik.kumarpradyumna@gmail.com" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="50rem" alt="Gmail" style="border-radius: 10px; transition: transform 0.3s;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pradyumnakumarnaik/" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50rem" alt="LinkedIn" style="border-radius: 10px; transition: transform 0.3s;"/>
+  </a>
+  <a href="https://www.instagram.com/im_siddharth_20/" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50rem" alt="Instagram" style="border-radius: 10px; transition: transform 0.3s;"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100035573633791" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50rem" alt="Facebook" style="border-radius: 10px; transition: transform 0.3s;"/>
+  </a>
 </p>
+
+<style>
+  a:hover img {
+    transform: scale(1.1);
+  }
+</style>
+
 
 
 # 💻 Tech Stack:
