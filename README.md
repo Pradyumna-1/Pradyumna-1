@@ -12,26 +12,39 @@
 Here you can find a showcase of my skills, tools, and technologies that I use in my development projects. Feel free to explore and reach out if you have any questions or want to collaborate!
 
 ## 🌐 Let's Connect :
+
 <p align="center">
-  <a href="mailto:naik.kumarpradyumna@gmail.com" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="50rem" alt="Gmail" style="border-radius: 10px; transition: transform 0.3s;"/>
+  <a href="mailto:naik.kumarpradyumna@gmail.com" style="text-decoration: none; margin: 0 20px; border-radius: 50%; background-color: #ff4081; padding: 10px; transition: all 0.3s ease;">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="50rem" alt="Gmail" style="border-radius: 50%; transition: all 0.3s ease;"/>
   </a>
-  <a href="https://www.linkedin.com/in/pradyumnakumarnaik/" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50rem" alt="LinkedIn" style="border-radius: 10px; transition: transform 0.3s;"/>
+  <a href="https://www.linkedin.com/in/pradyumnakumarnaik/" style="text-decoration: none; margin: 0 20px; border-radius: 50%; background-color: #0077b5; padding: 10px; transition: all 0.3s ease;">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50rem" alt="LinkedIn" style="border-radius: 50%; transition: all 0.3s ease;"/>
   </a>
-  <a href="https://www.instagram.com/im_siddharth_20/" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50rem" alt="Instagram" style="border-radius: 10px; transition: transform 0.3s;"/>
+  <a href="https://www.instagram.com/im_siddharth_20/" style="text-decoration: none; margin: 0 20px; border-radius: 50%; background-color: #e1306c; padding: 10px; transition: all 0.3s ease;">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50rem" alt="Instagram" style="border-radius: 50%; transition: all 0.3s ease;"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100035573633791" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50rem" alt="Facebook" style="border-radius: 10px; transition: transform 0.3s;"/>
+  <a href="https://www.facebook.com/profile.php?id=100035573633791" style="text-decoration: none; margin: 0 20px; border-radius: 50%; background-color: #1877f2; padding: 10px; transition: all 0.3s ease;">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50rem" alt="Facebook" style="border-radius: 50%; transition: all 0.3s ease;"/>
   </a>
 </p>
 
 <style>
-  a:hover img {
+  a {
+    display: inline-block;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  a:hover {
     transform: scale(1.1);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  a:hover img {
+    transform: scale(1.2);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
   }
 </style>
+
 
 
 
