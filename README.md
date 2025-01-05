@@ -4,7 +4,10 @@
 <h1 align="center">Hi 👋, I'm Pradyumna Kumar Naik</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img href="https://camo.githubusercontent.com/a6ab91b24ab28337fd63bdd8c1088e3404cdffec2124bd176027df331001fe68/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e696c616d61646861627265646479266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Pradyumna-1&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Pradyumna-1)
+
+
 # 💫 Welcome to my Profile:
 Here you can find a showcase of my skills, tools, and technologies that I use in my development projects. Feel free to explore and reach out if you have any questions or want to collaborate!
 
