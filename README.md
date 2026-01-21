@@ -55,18 +55,6 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/9337782758@ybl) 
 
 
-
-## 🏆 GitHub Achievements
-
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120" alt="Quickdraw"/>
-</p>
-
-**Pull Shark** 🦈 – Merged pull requests  
-**Quickdraw** ⚡ – Closed an issue or pull request very quickly
-
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
