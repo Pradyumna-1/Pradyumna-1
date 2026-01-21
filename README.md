@@ -54,6 +54,13 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
   ## 💰BUY ME A COFFEE
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/9337782758@ybl) 
 
+
+
+## 🏆 GitHub Achievements
+
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-blue)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-%E2%9A%A1-orange)
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
